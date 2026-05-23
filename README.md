@@ -1,16 +1,25 @@
-## Hi there 👋
+# Luis Ortiz
 
-<!--
-**luisitossb/luisitossb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad based in East Palo Alto, CA. I build automation tools, Discord bots, and anything that makes a computer do repetitive work so I don't have to. Currently open to roles in DevOps, systems, or software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**[Discord Reminder Bot](https://github.com/luisortiz/discord-reminder-bot)**
+Productivity bot with Notion integration, RPG-style XP/leveling, and scheduled reminders. Supports natural language time parsing and daily quest tracking with automatic midnight resets.
+
+**[Discord Music Bot](https://github.com/luisortiz/discord-music-bot)**
+Full-featured bot with YouTube music playback, queue management, Gemini AI chat, user mimicking, and League of Legends game tracking.
+
+**[Smash Bros Character & Stage Classifier](https://github.com/luisortiz/smash-classifier)**
+Real-time ML classifier using transfer learning on MobileNetV3 to detect all 89+ fighters and competitive stages from live gameplay footage. Implements a voting pipeline for stable frame-by-frame predictions.
+
+---
+
+### Skills & Tools
+Python · Linux · Bash · Discord.py · PyTorch · Git · Automation
+
+---
+
+📫 luisortiz@email.com · Open to opportunities
