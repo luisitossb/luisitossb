@@ -12,7 +12,7 @@ Productivity bot with Notion integration, RPG-style XP/leveling, and scheduled r
 **[Discord Music Bot](https://github.com/luisitossb/music-bot)**
 Full-featured bot with YouTube music playback, queue management, Gemini AI chat, user mimicking, and League of Legends game tracking.
 
-**[Smash Bros Character & Stage Classifier]([https://github.com/luisortiz/smash-classifier](https://github.com/luisitossb/character-and-stage-detector))**
+**[Smash Bros Character & Stage Classifier](https://github.com/luisitossb/character-and-stage-detector)**
 Real-time ML classifier using transfer learning on MobileNetV3 to detect all 89+ fighters and competitive stages from live gameplay footage. Implements a voting pipeline for stable frame-by-frame predictions.
 
 ---
