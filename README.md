@@ -21,5 +21,3 @@ Real-time ML classifier using transfer learning on MobileNetV3 to detect all 89+
 Python · Linux · Bash · Discord.py · PyTorch · Git · Automation
 
 ---
-
-📫 luisortiz@email.com · Open to opportunities
