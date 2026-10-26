@@ -1,6 +1,6 @@
 # Luis Ortiz
 
-CS grad based in Palo Alto, CA. I like making computers do things I don't want to do.
+CS grad based in Palo Alto, CA.
 
 ---
 
