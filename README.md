@@ -7,7 +7,7 @@ CS grad based in Palo Alto, CA. I like making computers do things I don't want t
 ### Featured Project(s)
 
 **HAHAHAHAHAHHAHAHAHAHAHAHHAHA**
-Ask me for the real shit I keep as private repos 
+- Ask me for the real shit I keep as private repos 
 
 ---
 
