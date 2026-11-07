@@ -1,1 +1,2 @@
-Ask me for the real shit I keep as private repos
+Life isn't black and white.
+That's why I let my code be legally gray.
